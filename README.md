@@ -41,3 +41,5 @@ Huge update which added new block "Cobblestone" and added new generation. Size o
 Added new trees. Added water but player doesn't have access to put or break it.
 
 ![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/645a04b4-6b6e-4520-a1dd-8bdfd4e9bdb9)
+
+You can make your own resource pack for this Minecraft in folder `resource_packs`
