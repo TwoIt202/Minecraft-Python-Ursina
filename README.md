@@ -10,7 +10,7 @@ We can't destroy blocks or put blocks. We only can walk and jump.
 ![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/37e4e76b-4b9b-48f6-bf25-7baa68b5273e)
 
 ## Alpha 1.1 (September 29 / 2022)
-Alpha 1.1 - We can but blocks and destroy them. And we have 2 blocks: Grass Block and Stone.
+Alpha 1.1 - We can put blocks and destroy them. And we have 2 blocks: Grass Block and Stone.
 Added a new indicator in the upper left corner.
 
 ![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/3b48ed7c-4b0d-4f9e-8bed-ac46db0db2a3)
