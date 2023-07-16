@@ -36,7 +36,7 @@ Small update which added hand with block in game.
 ## Alpha 1.4 (October 22/ 2022)
 Small update which fixed bug with sounds when player is breaking blocks.
 
-## Alpha 1.5 (July 16 / 2023)
+## Beta 1.0 (July 16 / 2023)
 Huge update which added new block "Cobblestone" and added new generation. Size of chunk now is 32x32.
 Added new trees. Added water but player doesn't have access to put or break it.
 
