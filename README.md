@@ -43,3 +43,17 @@ Added new trees. Added water but player doesn't have access to put or break it.
 ![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/645a04b4-6b6e-4520-a1dd-8bdfd4e9bdb9)
 
 You can make your own resource pack for this Minecraft in folder `resource_packs`
+
+## Beta 1.1 (August 6 / 2023)
+Update which changed all source code with classes. Added new generation.
+Updated shadows and player can fly with **Space** and **Shift**.
+
+![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/2329990a-96a6-4daf-93f9-ec2c30d8460b)
+
+Also added new system of saving worlds. And in folder **saves** you can find world **x64 World**.
+To go there, you need to write in the input of the world name **x64**.
+
+**WARNING**: The world is big and consists of generating 64x64 blocks. This version is not optimized, and can cause strong lags.
+
+![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/5bfd5ad4-9ae8-456b-9579-31c192585610)
+
