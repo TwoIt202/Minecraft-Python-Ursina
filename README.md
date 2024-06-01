@@ -57,3 +57,18 @@ To go there, you need to write in the input of the world name **x64**.
 
 ![image](https://github.com/TwoIt202/Minecraft-Python-Ursina/assets/111056676/5bfd5ad4-9ae8-456b-9579-31c192585610)
 
+## Pre-Release 1.0 (June 1 / 2024)
+The most important thing is to say that update is very cool, because it.. added.. **slabs**! 
+Yes, this is really very cool because builders (who don't exist) very convenient to build with **slabs**!
+This is the best update in my game development! Seriously, is it some kind of bullshit for someone **slabs**?
+We can put these **slabs** with the R key and back with blocks with the same key.
+
+These blocks have their slabs:
+* Stone
+* Cobblestone
+* Oak Plank
+
+![изображение](https://github.com/valmme/Minecraft-Python-Ursina/assets/111056676/16305a9d-552e-4e7b-9a13-c28d8db39b19)
+
+Okay, that's not all, because now you can also create your own mods. But it’s not as epic as the **slabs**...
+There's no guide "How to create mods" at the moment.. i'm too lazy to type it now.
